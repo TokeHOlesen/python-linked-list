@@ -1,11 +1,11 @@
-*** Python Linked List
+### Python Linked List
 
-**** An implementation of a singly linked list in Python.
+#### An implementation of a singly linked list in Python.
 
 To use, instantiate an object of the LinkedList class.
 The linked list is iterable.
 
-**** Methods:
+#### Methods:
 
 - insert_node(value): inserts a node with the specified value at the beginning of the list.
 - append_node(value): appends a node with the specified value to the end of the list.
